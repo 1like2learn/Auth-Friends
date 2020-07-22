@@ -47,7 +47,7 @@ Topics:
 
 ```js
 {
-  id: 1
+  id: 1,
   name: 'Joe',
   age: 24,
   email: 'joe@lambdaschool.com',
